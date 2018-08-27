@@ -1,5 +1,8 @@
+/*Tipo de letra - Ubuntu - */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,700');
+
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }

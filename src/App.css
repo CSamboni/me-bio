@@ -1,28 +1,43 @@
-.App {
-  text-align: center;
+/*Tipo de letra - Ubuntu - */
+@import url( 'https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,700');
+
+body,
+html {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: purple;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+/*Header configuración*/
+.profile {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 180px;
+
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+.description {
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  
+}
+.bio {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: white;
 }
 
-.App-title {
-  font-size: 1.5em;
+.subio {
+  display: inline-block;
+  color: white;
+  margin-left: 20px;
 }
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.margin-card {
+  margin: 10px;
+  border-radius: 5px;
 }
