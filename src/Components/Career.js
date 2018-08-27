@@ -12,13 +12,21 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            EDUCATION
+                            <p
+                                style={{
+                                'backgroundColor': 'green',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>EDUCATION</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Frontend Web Development.
-                                </strong>
-                                Códigofacilito (2015-2018)
+                                <p>
+                                    <strong>Frontend Web Development.
+                                    </strong>
+                                </p>
+                                <p>Códigofacilito (2015-2018)</p>
                             </div>
                         </div>
                     </div>
@@ -27,13 +35,21 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            EDUCATION
+                            <p
+                                style={{
+                                'backgroundColor': 'green',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>EDUCATION</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>JavaScript Development.
-                                </strong>
-                                Códigofacilito (2015-2018)
+                                <p>
+                                    <strong>JavaScript Development
+                                    </strong>
+                                </p>
+                                <p>Códigofacilito (2015-2018)</p>
                             </div>
                         </div>
                     </div>
@@ -42,12 +58,20 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            EDUCATION
+                            <p
+                                style={{
+                                'backgroundColor': 'green',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>EDUCATION</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Media & Animations.</strong>
-                                Platzi (2014-2017)
+                                <p>
+                                    <strong>Media & Animations.</strong>
+                                </p>
+                                <p>Platzi (2014-2017)</p>
                             </div>
                         </div>
                     </div>
@@ -56,12 +80,20 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            EDUCATION
+                            <p
+                                style={{
+                                'backgroundColor': 'green',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>EDUCATION</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Networking & Iot.</strong>
-                                Fututel SAS (2015-2018)
+                                <p>
+                                    <strong>Networking & Iot.</strong>
+                                </p>
+                                <p>Fututel SAS (2015-2018)</p>
                             </div>
                         </div>
                     </div>
@@ -72,11 +104,20 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            PROFESSIONAL EXPERIENCE
+                            <p
+                                style={{
+                                'backgroundColor': 'gold',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>PROFESSIONAL EXPERIENCE</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Technical support</strong>. Attencion, supporting & technical systems computer Maintance. (2012-Current)
+                                <p>
+                                    <strong>Technical Support</strong>
+                                </p>
+                                <p>Attencion, supporting & technical systems computer Maintance. (2012-Current)</p>
                             </div>
                         </div>
                     </div>
@@ -85,12 +126,20 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            PROFESSIONAL EXPERIENCE
+                            <p
+                                style={{
+                                'backgroundColor': 'gold',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>PROFESSIONAL EXPERIENCE</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Blogger & writer at Fututel SAS</strong>. Writting for post, blogs and
-                                publishing documentation and tutorials tech. (2015-2016)
+                                <p>
+                                    <strong>Blogger & writer at Fututel SAS</strong>.</p>
+                                <p>Writting for post, blogs and publishing documentation and tutorials tech.
+                                    (2015-2016)</p>
                             </div>
                         </div>
                     </div>
@@ -99,11 +148,19 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            PROFESSIONAL EXPERIENCE
+                            <p
+                                style={{
+                                'backgroundColor': 'gold',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>PROFESSIONAL EXPERIENCE</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Web Developer</strong>. Developing for web applications with React & Nodejs.
+                                <p>
+                                    <strong>Web Developer</strong>.</p>
+                                <p>Developing for web applications with React & Nodejs.</p>
                             </div>
                         </div>
                     </div>
@@ -113,11 +170,19 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            CERTIFICATES | AWARDS
+                            <p
+                                style={{
+                                'backgroundColor': 'blue',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>CERTIFICATES | AWARDS</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>JavaScript course & design</strong>. Winner of Profesional JavaScript course & design UX. (2017)
+                                <p>
+                                    <strong>JavaScript course & design</strong>.</p>
+                                <p>Winner of Profesional JavaScript course & design UX. (2017)</p>
                             </div>
                         </div>
                     </div>
@@ -126,11 +191,19 @@ class Career extends Component {
                 <div className="card margin-card">
                     <div className="card-header">
                         <p className="card-header-title">
-                            CERTIFICATES | AWARDS
+                            <p
+                                style={{
+                                'backgroundColor': 'blue',
+                                'borderRadius': '5px',
+                                'color': 'white',
+                                'padding': '10px'
+                            }}>CERTIFICATES | AWARDS</p>
                         </p>
                         <div className="card-content">
                             <div className="content">
-                                <strong>Professional web Developer Course</strong>. Certified by Codigofacilito as a Web Developer.(2018)
+                                <p>
+                                    <strong>Professional web Developer Course</strong>.</p>
+                                <p>Certified by Codigofacilito as a Web Developer.(2018)</p>
                             </div>
                         </div>
                     </div>

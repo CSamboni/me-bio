@@ -2,6 +2,8 @@ import React, {Component} from 'react';
 /*Componentes */
 import Header from './Components/Header';
 import Career from './Components/Career';
+import Projects from './Components/Projects';
+import Footer from './Components/Footer';
 /*Estilos */
 import './App.css';
 
@@ -14,6 +16,13 @@ class App extends Component {
                 </div>
                 <div>
                     <Career/>
+                </div>
+                <div>
+                    <div className="title bio">MY PROJECTS:</div>
+                    <Projects/>
+                </div>
+                <div>
+                    <Footer/>
                 </div>
             </div>
         );
