@@ -41,6 +41,23 @@ html {
     margin: 10px;
     border-radius: 5px;
 }
+.chips {
+    display: inline-block;
+    background-color: white;
+    padding: 10px;
+    margin: 2%;
+    font-weight: 700;
+    border-radius: 8px;
+}
+/*Decoración fecha project/career*/
+.date-card {
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+    background-color: purple;
+    display: inline-block;
+    font-weight: 500;
+}
 .space {
     margin: 20px;
     padding: 10px;

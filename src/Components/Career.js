@@ -26,7 +26,10 @@ class Career extends Component {
                                     <strong>Frontend Web Development.
                                     </strong>
                                 </p>
-                                <p>Códigofacilito (2015-2018)</p>
+                                <p>Códigofacilito</p>
+                                <div className="date-card">
+                                 <p>2015 - Current </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -49,7 +52,10 @@ class Career extends Component {
                                     <strong>JavaScript Development
                                     </strong>
                                 </p>
-                                <p>Códigofacilito (2015-2018)</p>
+                                <p>Códigofacilito</p>
+                                <div className="date-card">
+                                <p>2015 - Current </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -71,7 +77,10 @@ class Career extends Component {
                                 <p>
                                     <strong>Media & Animations.</strong>
                                 </p>
-                                <p>Platzi (2014-2017)</p>
+                                <p>Platzi</p>
+                                <div className="date-card">
+                                 <p>2014 - 2017</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -93,7 +102,12 @@ class Career extends Component {
                                 <p>
                                     <strong>Networking & Iot.</strong>
                                 </p>
-                                <p>Fututel SAS (2015-2018)</p>
+                                <p>Fututel SAS</p>
+                                <div className="date-card">
+                                    <p>
+                                        2015 - 2018
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -117,7 +131,10 @@ class Career extends Component {
                                 <p>
                                     <strong>Technical Support</strong>
                                 </p>
-                                <p>Attencion, supporting & technical systems computer Maintance. (2012-Current)</p>
+                                <p>Attencion, supporting & technical systems computer Maintance.</p>
+                                <div className="date-card">
+                                    <p>2012 - Current</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -138,8 +155,10 @@ class Career extends Component {
                             <div className="content">
                                 <p>
                                     <strong>Blogger & writer at Fututel SAS</strong>.</p>
-                                <p>Writting for post, blogs and publishing documentation and tutorials tech.
-                                    (2015-2016)</p>
+                                <p>Writting for post, blogs and publishing documentation and tutorials tech.</p>
+                                <div className="date-card">
+                                    <p>2015 - 2016</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -161,6 +180,9 @@ class Career extends Component {
                                 <p>
                                     <strong>Web Developer</strong>.</p>
                                 <p>Developing for web applications with React & Nodejs.</p>
+                                <div className="date-card">
+                                    <p>Current</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -182,7 +204,10 @@ class Career extends Component {
                             <div className="content">
                                 <p>
                                     <strong>JavaScript course & design</strong>.</p>
-                                <p>Winner of Profesional JavaScript course & design UX. (2017)</p>
+                                <p>Winner of Profesional JavaScript course & design UX.</p>
+                                <div className="date-card">
+                                    <p>2017</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -203,7 +228,10 @@ class Career extends Component {
                             <div className="content">
                                 <p>
                                     <strong>Professional web Developer Course</strong>.</p>
-                                <p>Certified by Codigofacilito as a Web Developer.(2018)</p>
+                                <p>Certified by Codigofacilito as a Web Developer.</p>
+                                <div className="date-card">
+                                    <p>2018</p>
+                                </div>
                             </div>
                         </div>
                     </div>
