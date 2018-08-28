@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
 
+const imageReact = 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2000px-' +
+'React-icon.svg.png';
+
 class Footer extends Component {
     render() {
         return (
@@ -8,7 +11,8 @@ class Footer extends Component {
                     <p className="author">Cristian Samboni</p>
                     <div className="column is-mobile"></div>
                     <p className="email">chrixz512@hotmail.com</p>
-                    <p>Developer with React.</p>
+                    <p><strong>Developer with:</strong></p>
+                    <img style={{'width':'33%'}} src={imageReact} alt="R.dev" />
                 </div>
 
                 {/*Twitter timeline*/}

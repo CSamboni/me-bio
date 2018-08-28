@@ -16,7 +16,7 @@ class Header extends Component {
                     'margin': '10px'
                 }}>
                     {/*Description*/}
-                    <div className="is-vertical is-8 ">
+                    <div className="is-vertical is-8">
                         <div className="tile">
                             <div className="tile is-parent is-vertical">
                                 <div className="tile is-child notification is-primary">

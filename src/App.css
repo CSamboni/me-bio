@@ -24,11 +24,17 @@ html {
     justify-content: center;
 
 }
+.tech-icon {
+     width: 50px;
+     height: 50px;
+     align-items: center;
+     justify-content: center;
+}
 .bio {
     margin-top: 60px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
     color: white;
 }
 
@@ -102,3 +108,8 @@ html {
     border-radius: 10px;
     font-size: 1.3em;
 }
+
+
+/*Responsive para escritorio*/
+
+/*Próximamente*/
